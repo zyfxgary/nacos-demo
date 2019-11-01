@@ -20,3 +20,4 @@ logs
 log_service/
 log_web/
 /logs/
+.mvn
